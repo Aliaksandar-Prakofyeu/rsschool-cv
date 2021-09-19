@@ -21,4 +21,10 @@ function usdcny(usd) {
     return (usd * 6.75).toFixed(2) +' Chinese Yuan';
 }
 ```
+##Expirience
+##Education
+ - [Codecademy](https://www.codecademy.com/profiles/remezz8715346541)
+ - W3schools (Html tutorials and exercises)
+##English level
+ - B2 (But i have small speaking practice)
 
