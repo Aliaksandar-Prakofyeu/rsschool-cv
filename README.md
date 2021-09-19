@@ -1,1 +1,0 @@
-https://Brusnicka.github.io/rsschool-cv/cv
