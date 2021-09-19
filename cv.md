@@ -15,3 +15,10 @@ I want to learn new skills in RS School and open to a new knowlege and expirienc
  - JS(Basic)
  - Git
 
+##Code example
+```
+function usdcny(usd) {
+    return (usd * 6.75).toFixed(2) +' Chinese Yuan';
+}
+```
+
