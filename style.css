@@ -155,3 +155,61 @@ body{
 .git-progress{
     width: 40%;
 }
+
+.right-main-content{
+    padding: 2rem 3rem;
+}
+
+.right-title{
+    letter-spacing: 1px;
+    text-transform: uppercase;
+    color: #538080;
+    padding-bottom: 1rem;
+    padding-top: 2rem;
+}
+
+.paragraph{
+    line-height: 1.5rem;
+    color: #293b3b;
+    font-size: 1.1rem;
+    padding-bottom: 2rem;
+}
+
+.cv-code{
+    border-style: inset;
+    padding-bottom: 2rem;
+    display: flex;
+}
+
+.right-main-content ul li{
+    line-height: 1.5rem;
+    color: #293b3b;
+    font-size: 1.1rem;
+    padding-bottom: 2rem;
+}
+
+.right-main-content ul li a{
+    line-height: 1.5rem;
+    color: #293b3b;
+    font-size: 1.1rem;
+    padding-bottom: 2rem;
+}
+.bottom-content{
+    display: flex;
+    justify-content: space-around;
+    align-content: center;
+    height: 100%;
+}
+#rs-logo{
+    display: flex;
+    width: 82px;
+    opacity: 70%;
+    transition: opacity 0.2s;
+}
+
+.bottom-title{
+    letter-spacing: 1px;
+    text-transform: uppercase;
+    color: #538080;
+    padding-bottom: 1rem;
+}
