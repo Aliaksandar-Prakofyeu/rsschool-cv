@@ -31,11 +31,12 @@ body{
 }
 
 .left-content{
-    padding: 1rem 2rem;
+    padding: 1rem 3rem;
 }
 
 .profile{
     width: 100%;
+    border-bottom: 1px solid white;
 }
 
 .profile img {
@@ -53,5 +54,104 @@ body{
 }
 
 .career{
+    font-size: 1.5rem;
+    color: #4cabab;
+    text-align: center;
+    letter-spacing: 1px;
+    padding-bottom: 0.7rem;
+}
 
+.main-title{
+    font-size: 1.8rem;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    color: white;
+    padding-top: 2.5rem;
+}
+
+.contact-info ul{
+    padding-top: 2rem;
+}
+
+.contact-info ul li{
+    padding: .4rem 0;
+    display: flex;
+    align-items: center;
+    color: #8899b2;
+}
+
+.contact-info ul li i{
+    padding-right: 1rem;
+    font-size: 1.1rem;
+    color: cornflowerblue;
+}
+
+.skills-section ul{
+    padding-top: 2rem;
+}
+
+.skills-section ul li{
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    align-items: center;
+    padding: .4rem 0;
+}
+
+.progress-bar{
+    width: 100%;
+    height: .4rem;
+    background-color: #435b88;
+    position: relative;
+    border-radius: 12px;
+}
+.progress{
+    height: 100%;
+    position: absolute;
+    left: 0;
+    background-color: cornflowerblue;
+    border-radius: 12px;
+}
+.html-progress{
+    width: 88%
+}
+
+.skill-title{
+    text-transform: uppercase;
+    color: white;
+    font-size: 1rem;
+    letter-spacing: 1px;
+    padding-right: 1rem;
+
+}
+
+.skill-title i{
+    padding-right: 1rem;
+    font-size: large;
+}
+
+.fa-html5{
+    color: coral;
+}
+
+.css-progress{
+    width: 95%;
+}
+
+.fa-css3{
+    color: #0077ff;
+}
+
+.js-progress{
+    width: 20%;
+}
+.js-icon{
+    color: yellow;
+}
+
+.fa-git{
+    color: rgba(0, 0, 0, 0.78);
+}
+
+.git-progress{
+    width: 40%;
 }
