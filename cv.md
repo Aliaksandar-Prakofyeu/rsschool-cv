@@ -7,7 +7,7 @@
 - #### [Linkedin](https://www.linkedin.com/in/александр-прокофьев-2599b3203/)
 
 ## About Me 
-I want to learn new skills in RS School and open to a new knowlege and expirience.  
+I want to learn new skills in RS School and open to a new knowledge and experience.  
 
 ## Skills
  - HTML
